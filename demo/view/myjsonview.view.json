@@ -1,0 +1,8 @@
+{
+    "Type":"sap.ui.core.mvc.view.JSONView",
+    "ControllerName":"com.sapui5.Controller.myController",
+    "content":[{
+        "Type":"sap.m.Button",
+        "text":"JSON Button"
+    }]
+}
